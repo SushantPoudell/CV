@@ -4,7 +4,7 @@
 
 # \## 🌐 Live Website
 
-Visit the live CV at: \*\*\https://sushantpoudell.github.io/CV/\*\*
+Visit the live CV at: https://sushantpoudell.github.io/CV/
 
 # 
 
@@ -60,6 +60,7 @@ Visit the live CV at: \*\*\https://sushantpoudell.github.io/CV/\*\*
 \*\*Email\*\*: dineshp4297501@gmail.com
 
 \*\*Website\*\*: https://www.dinesh2004.com.np
+
 
 
 
