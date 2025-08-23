@@ -4,7 +4,7 @@
 
 # \## 🌐 Live Website
 
-Visit the live CV at: \*\*\[sushantpoudell.github.io/CV](https://sushantpoudell.github.io/CV/)\*\*
+Visit the live CV at: \*\*\https://sushantpoudell.github.io/CV/\*\*
 
 # 
 
@@ -53,10 +53,13 @@ Visit the live CV at: \*\*\[sushantpoudell.github.io/CV](https://sushantpoudell.
 # 
 
 # \## 📁 Design and Development
-\- This CV website is designed and developed by **Dinesh Poudel**.
+## This CV website is designed and developed by **Dinesh Poudel**.
 
 \- Contact him through:
+
 \*\*Email\*\*: dineshp4297501@gmail.com
+
 \*\*Website\*\*: https://www.dinesh2004.com.np
+
 
 
