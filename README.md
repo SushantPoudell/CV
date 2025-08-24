@@ -57,10 +57,9 @@ Visit the live CV at: https://sushantpoudell.github.io/CV/
 
 \- Contact him through:
 
-\*\*Email\*\*: dineshp4297501@gmail.com
+\*\*Email-1\*\*: dineshp4297501@gmail.com
+
+\*\*Email-2\*\*: dineshacc02@gmail.com
 
 \*\*Website\*\*: https://www.dinesh2004.com.np
-
-
-
 
